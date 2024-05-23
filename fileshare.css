@@ -1,0 +1,60 @@
+.fileshare-container {
+  background-image: url(C:\Users\dhars\Desktop\Re_Project\frontend\public\fileshare.jpg);
+  background-size:cover ;
+  background-position: center;
+  color: white;
+  max-width: 3000px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.fileshare-container h1 {
+  font-size: 54px;
+  margin-bottom: 20px;
+}
+
+.file-input {
+  margin-bottom: 10px;
+}
+
+.file-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.file-item h4 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.file-item p {
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+.file-actions {
+  display: flex;
+  align-items: center;
+}
+
+.file-actions button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.file-actions button:hover {
+  background-color: #0056b3;
+}

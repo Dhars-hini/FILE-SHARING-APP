@@ -1,0 +1,49 @@
+.contact-container {
+    background-image: url(C:\Users\dhars\Desktop\Re_Project\frontend\public\contact.jpg);
+    background-size: cover;
+    background-position: center;
+    color: rgb(6, 0, 0);
+    padding: 50px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .contact-container h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-container p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .contact-container ul li {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .quotes-container {
+    margin-top: 40px;
+  }
+  
+  .quotes-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .quotes-container p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end; /* Align links to the right */
+  }
+  
+  .nav-links li {
+    margin-left: 20px; /* Adjust spacing between links */
+  }
+  
+  .nav-links li:first-child {
+    margin-left: 0; /* Remove margin from the first link */
+  }
+  
+  .nav-links li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .nav-links li a:hover {
+    text-decoration: underline;
+  }
+  

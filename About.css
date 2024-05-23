@@ -1,0 +1,45 @@
+.about {
+    background-image: url(C:\Users\dhars\Desktop\Re_Project\frontend\public\about.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 50px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .about-content {
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent background for better text readability */
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 800px;
+  }
+  
+  .about-content h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .about-content h2 {
+    font-size: 28px;
+    margin-top: 20px;
+  }
+  
+  .about-content p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  .about-content ul {
+    text-align: left;
+    margin: 20px 0;
+    padding-left: 20px;
+  }
+  
+  .about-content ul li {
+    margin-bottom: 10px;
+  }
+  
